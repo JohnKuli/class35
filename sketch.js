@@ -4,8 +4,8 @@ var position;
 
 function preload() {
   cityImage=loadImage("Images/cityImage.png");
-  HotAirBallon=loadAnimation("Images/hotAirBallon01.png");
-  HotAirBallon2=loadAnimation("Images/hotAirBallon01.png","Images/hotAirBallon02.png","Images/hotAirBallon03.png");
+  HotAirBallon=loadAnimation("Images/HotAirBallon01.png");
+  HotAirBallon2=loadAnimation("Images/HotAirBallon01.png","Images/HotAirBallon02.png","Images/HotAirBallon03.png");
 }
 
 function setup(){
